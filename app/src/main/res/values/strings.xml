@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TweenAnim</string>
+    <string-array name="tween">
+        <item>Alpha</item>
+        <item>Rotate</item>
+        <item>Scale</item>
+        <item>Traslate</item>
+    </string-array>
+</resources>
